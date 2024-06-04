@@ -41,7 +41,7 @@ export default function CreateAccount() {
     // create an account
     // set the name of the user
     // redirect to the home page
-    console.log(name, email, password);
+    console.log(email, password);
   }
   return (
     <Wrapper>
